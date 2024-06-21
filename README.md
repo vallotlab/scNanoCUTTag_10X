@@ -6,11 +6,11 @@ The dataset starts from raw BCL sequencing files to exploitable output such
 as count matrices, coverage file and report.  
 
 
-To launch pipe : 
+To launch the pipeline : 
 
 .run_multiple_samples.sh path/to/samplesheet
 
-the pipe will first create a config file, and then launch the script schip_processing.sh. Functions called in schip_processing.sh are mainly stored in scripts/func.inc.sh
+the pipeline will first create a config file, and then launch the script schip_processing.sh. Functions called in schip_processing.sh are mainly stored in scripts/func.inc.sh
 
 
 
